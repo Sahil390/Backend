@@ -1,5 +1,3 @@
-
-
 module.exports = function errorHandler(err, req, res, next) { 
   
   if (!err) return next();

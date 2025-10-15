@@ -1,5 +1,3 @@
-
-
 module.exports = function logger(req, res, next) {
   const start = Date.now();
   
